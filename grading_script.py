@@ -12,7 +12,7 @@ SUBMISSIONS_DIR = 'submissions'
 REPORTS_DIR = 'reports'
 INDEX_FILE = 'index.html'
 PROFESSOR_FILE = 'submission_reports.tar.gz'
-ROSTER_FILE = 'roster.csv'
+ROSTER_FILE = 'Roster.csv'
 
 # Regular expressions for pattern matching
 PATTERNS = {
