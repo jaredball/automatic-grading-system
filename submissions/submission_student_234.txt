@@ -1,0 +1,54 @@
+1234
+9
+-78
+10
+
+1a2b3c
+nine
+hello
+2.5.7
+
+5.6
+- 7.00
+1.678943578976543
+3.1415926
+
+2345 Maple Drive
+789 Oak Blvd.
+567 Pine Rd.
+99 Sunset Blvd
+
+Six hundred Pinecrest Ave
+22 22 Riverdale St
+18.7 West 5th Ave
+25 South Pine
+456 Oakwood Street
+
+$1
+$20
+$1.99
+$10.00
+$1500.50
+$2,000.99
+$1,234,567.89
+
+$1.9
+$10,23.4
+
+(415) 555-1020
+(415)555-2001
+987-654-3210
+
+(321)6547890
+654-3210
+415 555-1020
+
+jsmith@university.com
+j.smith@cs.university.edu
+happy_trail@adventure.org
+good_vibes@Green.hall.university.edu
+
+a@smith@university.com
+a smith@university.edu
+jsmith@university..edu
+jsmith@university.edu-org
